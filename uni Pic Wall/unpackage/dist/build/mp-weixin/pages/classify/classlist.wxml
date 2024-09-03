@@ -1,0 +1,1 @@
+<view class="pabg data-v-2cd36369"><view class="grid data-v-2cd36369"><view class="content1 data-v-2cd36369"><navigator wx:for="{{a}}" wx:for-item="item" wx:key="c" url="" class="item data-v-2cd36369"><view class="position data-v-2cd36369" bindtap="{{item.b}}"><image class="data-v-2cd36369" src="{{item.a}}" mode="aspectFill"></image></view></navigator></view></view></view>

@@ -1,0 +1,1 @@
+<view class="content"><image bindtap="{{a}}" class="logo" src="{{b}}"></image><view class="text-area"><text class="title">点击上传本地文件</text></view><image bindtap="{{c}}" class="logo" src="{{d}}"></image><view class="text-area"><text class="title">点击登录</text></view></view>
